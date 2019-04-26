@@ -1,0 +1,65 @@
+<clr-main-container>
+    <clr-header>
+        <header class="header-6">
+            <div class="branding">
+                <a class="nav-link" routerLink="/">
+                    <clr-icon shape="shopping-cart"></clr-icon>
+                    <span class="title">{{ title }}</span>
+                </a>
+            </div>
+            <div class="header-nav" [clr-nav-level]="1">
+            <a class="nav-link" routerLink="/deals" routerLinkActive="active">
+                <span class="nav-text">Shop Deals</span>
+            </a>
+            <a class="nav-link" routerLink="/special" *ngIf="authService.isLoggedIn" routerLinkActive="active">
+                <span class="nav-text">Shop Stores</span>
+            </a>
+            </div>
+            <div class="header-actions">
+        <a *ngIf="!authService.isLoggedIn" (click)="authService.login()">
+            <clr-icon shape="login"></clr-icon>
+            <span class="nav-text">Log In</span>
+        </a>
+        <a (click)="authService.logout()" *ngIf="authService.isLoggedIn">
+            <clr-icon shape="logout"></clr-icon>
+            <span class="nav-text">Log Out</span>
+        </a>
+            </div>
+        </header>
+    </clr-header>
+    <div class="content-container">
+        <main class="content-area">
+            <router-outlet></router-outlet>
+        </main>
+        <nav class="sidenav" [clr-nav-level]="2">
+            ...
+        </nav>
+    </div>
+</clr-main-container>
+
+<!--<div class="container">
+    <nav class="navbar navbar-default">
+      <div class="navbar-header">
+        <a class="navbar-brand" routerLink="/">{{ title }}</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li>
+          <a routerLink="/deals" routerLinkActive="active">Deals</a>
+        </li>
+        <li>
+          <a routerLink="/special" *ngIf="authService.isLoggedIn" routerLinkActive="active">Private Deals</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a *ngIf="!authService.isLoggedIn" (click)="authService.login()">Log In</a>
+        </li>
+        <li>
+          <a (click)="authService.logout()" *ngIf="authService.isLoggedIn">Log Out</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="col-sm-12">
+      <router-outlet></router-outlet>
+    </div>
+  </div> -->

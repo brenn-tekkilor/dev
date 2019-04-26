@@ -1,0 +1,37 @@
+{
+  "name": "ishop_0.0.5-rest_api",
+  "version": "0.0.5",
+  "description": "iShop Node.js Rest Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenn-tekkilor/ishopdev.git"
+  },
+  "keywords": [
+    "ishop",
+    "data",
+    "server",
+    "node"
+  ],
+  "author": "Klinton Kerber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brenn-tekkilor/ishopdev/issues"
+  },
+  "homepage": "https://github.com/brenn-tekkilor/ishopdev#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.2",
+    "express-jwt": "^5.3.1",
+    "jwks-rsa": "^1.4.0",
+    "mongo-singleton": "^1.0.0",
+    "mongoose": "^5.4.19",
+    "mongoose-geojson": "0.0.4",
+    "mongoose-geojson-schema": "^2.1.3"
+  }
+}
