@@ -1,0 +1,3 @@
+C:\Users\brenn\source\git\dev\ishop\server\obj\Debug\ishop-server.njsprojAssemblyReference.cache
+C:\Users\brenn\source\git\dev\ishop\server\obj\Debug\ishop-server.njsproj.CoreCompileInputs.cache
+C:\Users\brenn\source\git\dev\ishop\server\bin\Microsoft.NodejsTools.WebRole.dll

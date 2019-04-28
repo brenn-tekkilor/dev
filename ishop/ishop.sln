@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ishop-server", "server\ishop-server.njsproj", "{F635F722-70D4-4DD1-AD3C-21C4194CB604}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ishop-client", "client\ishop-client.njsproj", "{0BD3C7B5-8A5D-4975-84E5-56C5F77C6072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F635F722-70D4-4DD1-AD3C-21C4194CB604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F635F722-70D4-4DD1-AD3C-21C4194CB604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F635F722-70D4-4DD1-AD3C-21C4194CB604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F635F722-70D4-4DD1-AD3C-21C4194CB604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD3C7B5-8A5D-4975-84E5-56C5F77C6072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD3C7B5-8A5D-4975-84E5-56C5F77C6072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD3C7B5-8A5D-4975-84E5-56C5F77C6072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD3C7B5-8A5D-4975-84E5-56C5F77C6072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E349A8AD-7C3F-4328-9D51-EC8D1CC79E33}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1936 @@
+﻿[
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd0"
+                },
+        "storeId":  46,
+        "name":  "7TH ST. \u0026 BASELINE",
+        "addressLine1":  "520 E BASELINE RD",
+        "phoneNumber":  "6022433012",
+        "geoZipCode":  85042,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3792846,
+        "longitude":  -112.0661103,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd1"
+                },
+        "storeId":  136,
+        "name":  "43RD \u0026 NORTHERN",
+        "addressLine1":  "4329 W NORTHERN AVE",
+        "phoneNumber":  "6239318445",
+        "geoZipCode":  85301,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5523776,
+        "longitude":  -112.1531895,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd2"
+                },
+        "storeId":  23,
+        "name":  "MCKELLIPS \u0026 RECKER",
+        "addressLine1":  "5941 E MCKELLIPS RD",
+        "phoneNumber":  "4808308949",
+        "geoZipCode":  85215,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4503008,
+        "longitude":  -111.7028442,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd3"
+                },
+        "storeId":  43,
+        "name":  "48TH ST. \u0026 BASELINE",
+        "addressLine1":  "2700 W BASELINE RD",
+        "phoneNumber":  "6024381756",
+        "geoZipCode":  85283,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3791738,
+        "longitude":  -111.9767706,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd4"
+                },
+        "storeId":  72,
+        "name":  "GILBERT \u0026 WILLIAMS FIELD RD.",
+        "addressLine1":  "87 E WILLIAMS FIELD RD",
+        "phoneNumber":  "4807263720",
+        "geoZipCode":  85295,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3048641,
+        "longitude":  -111.7879439,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd5"
+                },
+        "storeId":  680,
+        "name":  "GREENWAY \u0026 303 LOOP/FWY.",
+        "addressLine1":  "15215 N COTTON LN",
+        "phoneNumber":  "6234557900",
+        "geoZipCode":  85388,
+        "isActive":  false,
+        "taxRetail":  0.085,
+        "taxFood":  0,
+        "geoCity":  "SUPRISE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.622631,
+        "longitude":  -112.424642,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd6"
+                },
+        "storeId":  37,
+        "name":  "ALMA SCHOOL \u0026 ELLIOTT",
+        "addressLine1":  "981 W ELLIOT RD",
+        "phoneNumber":  "4808212296",
+        "geoZipCode":  85225,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "CHANDLER",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.348099,
+        "longitude":  -111.8579718,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd7"
+                },
+        "storeId":  607,
+        "name":  "BASELINE \u0026 MCCLINTOCK",
+        "addressLine1":  "5100 S MCCLINTOCK DR",
+        "phoneNumber":  "4807529700",
+        "geoZipCode":  85282,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3794954,
+        "longitude":  -111.9108546,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd8"
+                },
+        "storeId":  74,
+        "name":  "83RD AVE. \u0026 DEER VALLEY RD.",
+        "addressLine1":  "8375 W DEER VALLEY RD",
+        "phoneNumber":  "6235615504",
+        "geoZipCode":  85382,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.016,
+        "geoCity":  "PEORIA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6802843,
+        "longitude":  -112.2399064,
+        "registers":  [
+                          {
+                              "registerId":  10,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Kathleen}"
+                                           ]
+                          },
+                          {
+                              "registerId":  501,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 501}"
+                                           ]
+                          },
+                          {
+                              "registerId":  513,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 513}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabd9"
+                },
+        "storeId":  81,
+        "name":  "24TH \u0026 BASELINE",
+        "addressLine1":  "2250 E BASELINE RD",
+        "phoneNumber":  "6023054420",
+        "geoZipCode":  85042,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3795515,
+        "longitude":  -112.0318116,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabda"
+                },
+        "storeId":  54,
+        "name":  "TATUM \u0026 BELL",
+        "addressLine1":  "4842 E. BELL RD.",
+        "phoneNumber":  "(602-867-0353)",
+        "geoZipCode":  85254,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6427785,
+        "longitude":  -111.9759815,
+        "registers":  [
+                          {
+                              "registerId":  30,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=KIDAM}"
+                                           ]
+                          },
+                          {
+                              "registerId":  6,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Beverly}"
+                                           ]
+                          },
+                          {
+                              "registerId":  500,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 500}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabdb"
+                },
+        "storeId":  64,
+        "name":  "WARNER \u0026 VAL VISTA",
+        "addressLine1":  "714 S VAL VISTA DR",
+        "phoneNumber":  "4806546968",
+        "geoZipCode":  85296,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3373394,
+        "longitude":  -111.7571804,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabdc"
+                },
+        "storeId":  12,
+        "name":  "19TH AVE \u0026 UNION HILLS",
+        "addressLine1":  "18420 N 19TH AVE",
+        "phoneNumber":  "6029935960",
+        "geoZipCode":  85023,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6539612,
+        "longitude":  -112.1014282,
+        "registers":  [
+                          {
+                              "registerId":  503,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 503}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabdd"
+                },
+        "storeId":  60,
+        "name":  "59TH AVE \u0026 BEARDSLEY",
+        "addressLine1":  "20220 N. 59TH AVE.",
+        "phoneNumber":  "(623-334-2940)",
+        "geoZipCode":  85308,
+        "isActive":  true,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6697071,
+        "longitude":  -112.1889182,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabde"
+                },
+        "storeId":  11,
+        "name":  "67TH AVE \u0026 BETHANY HOME",
+        "addressLine1":  "6710 W BETHANY HOME RD",
+        "phoneNumber":  "6239340348",
+        "geoZipCode":  85303,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5252143,
+        "longitude":  -112.2042508,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabdf"
+                },
+        "storeId":  78,
+        "name":  "GAVILAN PEAK \u0026 DAISY MOUNTAIN DR",
+        "addressLine1":  "39508 N DAISY MOUNTAIN DR",
+        "phoneNumber":  "6235517220",
+        "geoZipCode":  85086,
+        "isActive":  false,
+        "taxRetail":  0.063,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.8444841,
+        "longitude":  -112.1338324,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe0"
+                },
+        "storeId":  62,
+        "name":  "BASELINE \u0026 COUNTRY CLUB",
+        "addressLine1":  "554 W BASELINE RD",
+        "phoneNumber":  "4809699299",
+        "geoZipCode":  85210,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3805677,
+        "longitude":  -111.8435935,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe1"
+                },
+        "storeId":  610,
+        "name":  "43RD AVE \u0026 MCDOWELL",
+        "addressLine1":  "4230 W MCDOWELL RD",
+        "phoneNumber":  "6024155700",
+        "geoZipCode":  85009,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4678091,
+        "longitude":  -112.1506813,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe2"
+                },
+        "storeId":  676,
+        "name":  "YUMA \u0026 SARIVAL RD.",
+        "addressLine1":  "16380 W YUMA RD",
+        "phoneNumber":  "6239254440",
+        "geoZipCode":  85338,
+        "isActive":  false,
+        "taxRetail":  0.088,
+        "taxFood":  0.02,
+        "geoCity":  "GOODYEAR",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.4376965,
+        "longitude":  -112.4112372,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe3"
+                },
+        "storeId":  134,
+        "name":  "60TH ST. \u0026 THOMAS",
+        "addressLine1":  "6080 E THOMAS RD",
+        "phoneNumber":  "4804250528",
+        "geoZipCode":  85251,
+        "isActive":  false,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4808385,
+        "longitude":  -111.95043,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe4"
+                },
+        "storeId":  25,
+        "name":  "INDIAN SCHOOL RD. \u0026 MILLER",
+        "addressLine1":  "7628 E INDIAN SCHOOL RD",
+        "phoneNumber":  "4809940145",
+        "geoZipCode":  85251,
+        "isActive":  false,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4958043,
+        "longitude":  -111.9159025,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe5"
+                },
+        "storeId":  26,
+        "name":  "51ST AVE. \u0026 OLIVE",
+        "addressLine1":  "5116 W OLIVE AVE",
+        "phoneNumber":  "6239341862",
+        "geoZipCode":  85302,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5688563,
+        "longitude":  -112.1699382,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe6"
+                },
+        "storeId":  129,
+        "name":  "20TH ST \u0026 HIGHLAND",
+        "addressLine1":  "4724 N. 20TH ST.",
+        "phoneNumber":  "(602-263-0766)",
+        "geoZipCode":  85016,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5069387,
+        "longitude":  -112.0413791,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe7"
+                },
+        "storeId":  124,
+        "name":  "RURAL \u0026 SOUTHERN",
+        "addressLine1":  "3255 S RURAL RD",
+        "phoneNumber":  "4808297799",
+        "geoZipCode":  85282,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3940031,
+        "longitude":  -111.9244963,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe8"
+                },
+        "storeId":  624,
+        "name":  "BASELINE \u0026 GILBERT",
+        "addressLine1":  "1845 E BASELINE RD",
+        "phoneNumber":  "4805393700",
+        "geoZipCode":  85233,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.3769467,
+        "longitude":  -111.7911336,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabe9"
+                },
+        "storeId":  113,
+        "name":  "ALMA SCHOOL RD. \u0026 MAIN ST.",
+        "addressLine1":  "1245 W MAIN ST",
+        "phoneNumber":  "4808338879",
+        "geoZipCode":  85201,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4130927,
+        "longitude":  -111.8580863,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabea"
+                },
+        "storeId":  127,
+        "name":  "43RD AVE \u0026 CACTUS",
+        "addressLine1":  "4204 W CACTUS RD",
+        "phoneNumber":  "6024399034",
+        "geoZipCode":  85029,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5979982,
+        "longitude":  -112.1499809,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabeb"
+                },
+        "storeId":  5,
+        "name":  "77TH ST \u0026 MCDOWELL",
+        "addressLine1":  "7770 E MCDOWELL RD",
+        "phoneNumber":  "4809414088",
+        "geoZipCode":  85257,
+        "isActive":  false,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4673075,
+        "longitude":  -111.9126567,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabec"
+                },
+        "storeId":  2,
+        "name":  "30TH ST \u0026 THOMAS",
+        "addressLine1":  "3036 E THOMAS RD",
+        "phoneNumber":  "6024689155",
+        "geoZipCode":  85016,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4818022,
+        "longitude":  -112.0165716,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabed"
+                },
+        "storeId":  621,
+        "name":  "PIMA \u0026 VIA LINDA",
+        "addressLine1":  "8900 VIA LINDA",
+        "phoneNumber":  "(480-657-6400)",
+        "geoZipCode":  85258,
+        "isActive":  true,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.5704676,
+        "longitude":  -111.8891685,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabee"
+                },
+        "storeId":  66,
+        "name":  "107TH AVE \u0026 INDIAN SCHOOL",
+        "addressLine1":  "10675 W INDIAN SCHOOL RD",
+        "phoneNumber":  "6237720501",
+        "geoZipCode":  85392,
+        "isActive":  false,
+        "taxRetail":  0.088,
+        "taxFood":  0.025,
+        "geoCity":  "AVONDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.492113,
+        "longitude":  -112.2884396,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Brandi}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabef"
+                },
+        "storeId":  698,
+        "name":  "BELL RD \u0026 14TH ST.",
+        "addressLine1":  "1311 E BELL",
+        "phoneNumber":  "602-584-5030",
+        "geoZipCode":  85022,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.6387404,
+        "longitude":  -112.0535518,
+        "registers":  [
+                          {
+                              "registerId":  502,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 502}"
+                                           ]
+                          },
+                          {
+                              "registerId":  511,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 511}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf0"
+                },
+        "storeId":  52,
+        "name":  "WARNER \u0026 COOPER",
+        "addressLine1":  "855 W WARNER RD",
+        "phoneNumber":  "4808137388",
+        "geoZipCode":  85233,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3339918,
+        "longitude":  -111.8083638,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf1"
+                },
+        "storeId":  641,
+        "name":  "35TH AVE \u0026 PEORIA",
+        "addressLine1":  "3511 W PEORIA AVE",
+        "phoneNumber":  "6028665420",
+        "geoZipCode":  85029,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5806948,
+        "longitude":  -112.1353489,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf2"
+                },
+        "storeId":  10,
+        "name":  "43RD AVE \u0026 BETHANY HOME",
+        "addressLine1":  "4353 W BETHANY HOME RD",
+        "phoneNumber":  "6239345324",
+        "geoZipCode":  85301,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5225437,
+        "longitude":  -112.1533759,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Stephanie}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf3"
+                },
+        "storeId":  121,
+        "name":  "40TH ST. \u0026 THUNDERBIRD",
+        "addressLine1":  "4025 E. THUNDERBIRD",
+        "phoneNumber":  "(602-953-1615)",
+        "geoZipCode":  85032,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6111029,
+        "longitude":  -111.9941463,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=SAVANNAH}"
+                                           ]
+                          },
+                          {
+                              "registerId":  501,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 501}"
+                                           ]
+                          },
+                          {
+                              "registerId":  504,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 504}"
+                                           ]
+                          },
+                          {
+                              "registerId":  511,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 511}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf4"
+                },
+        "storeId":  86,
+        "name":  "138TH AVE \u0026 RH JOHNSON",
+        "addressLine1":  "19403 N. RH JOHNSON BLVD",
+        "phoneNumber":  "6239305025",
+        "geoZipCode":  85375,
+        "isActive":  false,
+        "taxRetail":  0.063,
+        "taxFood":  0.02,
+        "geoCity":  "SUN CITY WEST",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6612135,
+        "longitude":  -112.3533135,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf5"
+                },
+        "storeId":  75,
+        "name":  "PECOS \u0026 HIGLEY",
+        "addressLine1":  "3261 E PECOS RD",
+        "phoneNumber":  "4809886300",
+        "geoZipCode":  85295,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.2904394,
+        "longitude":  -111.7196264,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf6"
+                },
+        "storeId":  122,
+        "name":  "107TH AVE \u0026 GRAND AVE",
+        "addressLine1":  "10660 GRAND AVE",
+        "phoneNumber":  "6238768222",
+        "geoZipCode":  85351,
+        "isActive":  false,
+        "taxRetail":  0.063,
+        "taxFood":  0.02,
+        "geoCity":  "SUN CITY",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6006735,
+        "longitude":  -112.2888354,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf7"
+                },
+        "storeId":  40,
+        "name":  "35TH AVE \u0026 THUNDERBIRD",
+        "addressLine1":  "3421 W. THUNDERBIRD RD",
+        "phoneNumber":  "(602-375-0186)",
+        "geoZipCode":  85053,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.609296,
+        "longitude":  -112.1320737,
+        "registers":  [
+                          {
+                              "registerId":  510,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 510}"
+                                           ]
+                          },
+                          {
+                              "registerId":  512,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 512}"
+                                           ]
+                          },
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=DEVON}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf8"
+                },
+        "storeId":  474,
+        "name":  "TATUM \u0026 CAVE CREEK",
+        "addressLine1":  "29455 N. CAVE CREEK RD.",
+        "phoneNumber":  "(480)538-7130",
+        "geoZipCode":  85331,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0.025,
+        "geoCity":  "CAVE CREEK",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.7524364,
+        "longitude":  -111.9904257,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabf9"
+                },
+        "storeId":  611,
+        "name":  "GREENFIELD \u0026 MAIN",
+        "addressLine1":  "4440 E MAIN ST",
+        "phoneNumber":  "4802188540",
+        "geoZipCode":  85205,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.4173282,
+        "longitude":  -111.7349675,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabfa"
+                },
+        "storeId":  128,
+        "name":  "7TH AVE \u0026 CAMELBACK",
+        "addressLine1":  "744 W CAMELBACK RD",
+        "phoneNumber":  "6022799001",
+        "geoZipCode":  85013,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5114149,
+        "longitude":  -112.0854513,
+        "registers":  [
+                          {
+                              "registerId":  501,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 501}"
+                                           ]
+                          },
+                          {
+                              "registerId":  505,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 505}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabfb"
+                },
+        "storeId":  126,
+        "name":  "67TH AVE. \u0026 INDIAN SCHOOL",
+        "addressLine1":  "6601 W INDIAN SCHOOL RD",
+        "phoneNumber":  "6238460622",
+        "geoZipCode":  85033,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4930705,
+        "longitude":  -112.201674,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabfc"
+                },
+        "storeId":  73,
+        "name":  "67TH AVE. \u0026 HAPPY VALLEY RD",
+        "addressLine1":  "6625 W HAPPY VALLEY RD",
+        "phoneNumber":  "6235618905",
+        "geoZipCode":  85310,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.710617,
+        "longitude":  -112.2015046,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabfd"
+                },
+        "storeId":  114,
+        "name":  "91ST AVE \u0026 UNION HILLS",
+        "addressLine1":  "9245 W UNION HILLS DR",
+        "phoneNumber":  "6239727902",
+        "geoZipCode":  85382,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.016,
+        "geoCity":  "PEORIA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.651245,
+        "longitude":  -112.2565525,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabfe"
+                },
+        "storeId":  617,
+        "name":  "27TH AVE. \u0026 BELL RD.",
+        "addressLine1":  "2727 W. BELL RD.",
+        "phoneNumber":  "(602-896-2500)",
+        "geoZipCode":  85053,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.6382113,
+        "longitude":  -112.1199559,
+        "registers":  [
+                          {
+                              "registerId":  30,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Alix}"
+                                           ]
+                          },
+                          {
+                              "registerId":  502,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 502}"
+                                           ]
+                          },
+                          {
+                              "registerId":  503,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 503}"
+                                           ]
+                          },
+                          {
+                              "registerId":  510,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 510}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afabff"
+                },
+        "storeId":  674,
+        "name":  "WADDELL \u0026 LITCHFIELD RD.",
+        "addressLine1":  "13982 W WADDELL RD",
+        "phoneNumber":  "6235379630",
+        "geoZipCode":  85379,
+        "isActive":  false,
+        "taxRetail":  0.085,
+        "taxFood":  0,
+        "geoCity":  "SUPRISE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6111819,
+        "longitude":  -112.3615051,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac00"
+                },
+        "storeId":  673,
+        "name":  "THOMPSON PEAK \u0026 HAYDEN",
+        "addressLine1":  "20427 N. HAYDEN RD",
+        "phoneNumber":  "(480)419-2240",
+        "geoZipCode":  85255,
+        "isActive":  true,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.671108,
+        "longitude":  -111.904221,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac01"
+                },
+        "storeId":  622,
+        "name":  "MCKELLIPS \u0026 STAPLEY DR.",
+        "addressLine1":  "1935 N STAPLEY DR",
+        "phoneNumber":  "4806104140",
+        "geoZipCode":  85203,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.450457,
+        "longitude":  -111.8029105,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac02"
+                },
+        "storeId":  120,
+        "name":  "64TH ST. \u0026 GREENWAY",
+        "addressLine1":  "6321 E. GREENWAY",
+        "phoneNumber":  "(480-368-8930)",
+        "geoZipCode":  85254,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6246543,
+        "longitude":  -111.9444981,
+        "registers":  [
+                          {
+                              "registerId":  503,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 503}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac03"
+                },
+        "storeId":  627,
+        "name":  "RAY \u0026 RURAL",
+        "addressLine1":  "9900 S RURAL RD",
+        "phoneNumber":  "4807836200",
+        "geoZipCode":  85284,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.3218957,
+        "longitude":  -111.9302598,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac04"
+                },
+        "storeId":  51,
+        "name":  "DOBSON \u0026 RAY RD.",
+        "addressLine1":  "1950 W RAY RD",
+        "phoneNumber":  "4808147732",
+        "geoZipCode":  85224,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "CHANDLER",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.321889,
+        "longitude":  -111.8749268,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac05"
+                },
+        "storeId":  67,
+        "name":  "48TH ST. \u0026 CAREFREE HWY.",
+        "addressLine1":  "4815 E CAREFREE HWY",
+        "phoneNumber":  "4805750693",
+        "geoZipCode":  85331,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0.025,
+        "geoCity":  "CAVE CREEK",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.797217,
+        "longitude":  -111.9766901,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac06"
+                },
+        "storeId":  609,
+        "name":  "CAVE CREEK \u0026 HATCHER",
+        "addressLine1":  "850 E. HATCHER",
+        "phoneNumber":  "(602-216-1440)",
+        "geoZipCode":  85020,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5726853,
+        "longitude":  -112.0610128,
+        "registers":  [
+                          {
+                              "registerId":  500,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 500}"
+                                           ]
+                          },
+                          {
+                              "registerId":  30,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Natalie}"
+                                           ]
+                          },
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Rebecca}"
+                                           ]
+                          },
+                          {
+                              "registerId":  512,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 512}"
+                                           ]
+                          },
+                          {
+                              "registerId":  4,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Heather}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac07"
+                },
+        "storeId":  61,
+        "name":  "BELL \u0026 REEMS",
+        "addressLine1":  "15510 W BELL RD",
+        "phoneNumber":  "6235462522",
+        "geoZipCode":  85374,
+        "isActive":  false,
+        "taxRetail":  0.085,
+        "taxFood":  0,
+        "geoCity":  "SUPRISE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6404295,
+        "longitude":  -112.3953398,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac08"
+                },
+        "storeId":  135,
+        "name":  "44TH ST. \u0026 THOMAS",
+        "addressLine1":  "4505 E THOMAS RD",
+        "phoneNumber":  "6029521288",
+        "geoZipCode":  85018,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4791872,
+        "longitude":  -111.9841093,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac09"
+                },
+        "storeId":  45,
+        "name":  "75TH AVE \u0026 CACTUS",
+        "addressLine1":  "7455 W CACTUS RD",
+        "phoneNumber":  "6234860120",
+        "geoZipCode":  85381,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.016,
+        "geoCity":  "PEORIA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5944965,
+        "longitude":  -112.2189306,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0a"
+                },
+        "storeId":  667,
+        "name":  "CAMELBACK RD. \u0026 LITCHFIELD",
+        "addressLine1":  "13730 W. CAMELBACK RD.",
+        "phoneNumber":  "6233347735",
+        "geoZipCode":  85340,
+        "isActive":  false,
+        "taxRetail":  0.063,
+        "taxFood":  0.028,
+        "geoCity":  "LITCHFIELD PARK",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.5106223,
+        "longitude":  -112.3561518,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0b"
+                },
+        "storeId":  22,
+        "name":  "MCCLINTOCK \u0026 GUADALUPE",
+        "addressLine1":  "1835 E GUADALUPE RD",
+        "phoneNumber":  "4808387023",
+        "geoZipCode":  85283,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3622596,
+        "longitude":  -111.9091445,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0c"
+                },
+        "storeId":  87,
+        "name":  "51ST AVE \u0026 BASELINE",
+        "addressLine1":  "5140 W BASELINE RD",
+        "phoneNumber":  "6022377000",
+        "geoZipCode":  85339,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "LAVEEN VILLAGE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3795016,
+        "longitude":  -112.1703697,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0d"
+                },
+        "storeId":  28,
+        "name":  "43RD AVE. \u0026 BELL RD",
+        "addressLine1":  "4315 W. BELL RD",
+        "phoneNumber":  "(602-978-2590)",
+        "geoZipCode":  85308,
+        "isActive":  true,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6378817,
+        "longitude":  -112.1527143,
+        "registers":  [
+                          {
+                              "registerId":  521,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 521}"
+                                           ]
+                          },
+                          {
+                              "registerId":  522,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 522}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0e"
+                },
+        "storeId":  619,
+        "name":  "83RD AVE \u0026 INDIAN SCHOOL",
+        "addressLine1":  "8325 W INDIAN SCHOOL RD",
+        "phoneNumber":  "6232457320",
+        "geoZipCode":  85037,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4927456,
+        "longitude":  -112.2390711,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Catina}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac0f"
+                },
+        "storeId":  89,
+        "name":  "115TH AVE \u0026 BUCKEYE RD",
+        "addressLine1":  "11425 W BUCKEYE RD",
+        "phoneNumber":  "6239076160",
+        "geoZipCode":  85323,
+        "isActive":  false,
+        "taxRetail":  0.088,
+        "taxFood":  0.025,
+        "geoCity":  "AVONDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4339471,
+        "longitude":  -112.3044141,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac10"
+                },
+        "storeId":  56,
+        "name":  "91ST AVE. \u0026 OLIVE",
+        "addressLine1":  "9043 W OLIVE AVE",
+        "phoneNumber":  "6239798880",
+        "geoZipCode":  85345,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.016,
+        "geoCity":  "PEORIA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.5646635,
+        "longitude":  -112.2537248,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac11"
+                },
+        "storeId":  55,
+        "name":  "POWER \u0026 BASELINE",
+        "addressLine1":  "1915 S POWER RD",
+        "phoneNumber":  "4809245159",
+        "geoZipCode":  85206,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3804196,
+        "longitude":  -111.6853011,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac12"
+                },
+        "storeId":  125,
+        "name":  "PIMA \u0026 SHEA",
+        "addressLine1":  "10450 N. 90TH ST.",
+        "phoneNumber":  "(480-661-0001)",
+        "geoZipCode":  85258,
+        "isActive":  true,
+        "taxRetail":  0.0795,
+        "taxFood":  0.0165,
+        "geoCity":  "SCOTTSDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.580826,
+        "longitude":  -111.8896666,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac13"
+                },
+        "storeId":  694,
+        "name":  "NORTH VALLEY PKWY \u0026 DOVE VALLEY",
+        "addressLine1":  "2800 W DOVE VALLEY",
+        "phoneNumber":  "4809946230",
+        "geoZipCode":  85085,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.786128,
+        "longitude":  -112.118518,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac14"
+                },
+        "storeId":  618,
+        "name":  "32ND ST. \u0026 BELL RD.",
+        "addressLine1":  "3246 E. BELL RD.",
+        "phoneNumber":  "(602-765-4600)",
+        "geoZipCode":  85032,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.6419701,
+        "longitude":  -112.0113244,
+        "registers":  [
+                          {
+                              "registerId":  30,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=NICOLE}"
+                                           ]
+                          },
+                          {
+                              "registerId":  502,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 502}"
+                                           ]
+                          },
+                          {
+                              "registerId":  503,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 503}"
+                                           ]
+                          },
+                          {
+                              "registerId":  511,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 511}"
+                                           ]
+                          },
+                          {
+                              "registerId":  512,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 512}"
+                                           ]
+                          },
+                          {
+                              "registerId":  7,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Colleen}",
+                                               "@{name=GERI}",
+                                               "@{name=LYANNE}",
+                                               "@{name=mary}"
+                                           ]
+                          },
+                          {
+                              "registerId":  8,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Colleen}",
+                                               "@{name=GERI}",
+                                               "@{name=LYANNE}",
+                                               "@{name=mary}"
+                                           ]
+                          },
+                          {
+                              "registerId":  10,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Colleen}",
+                                               "@{name=GERI}",
+                                               "@{name=LYANNE}",
+                                               "@{name=mary}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac15"
+                },
+        "storeId":  6,
+        "name":  "59TH AVE \u0026 THUNDERBIRD",
+        "addressLine1":  "5771 W. THUNDERBIRD",
+        "phoneNumber":  "(602-978-9488)",
+        "geoZipCode":  85306,
+        "isActive":  false,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.6093102,
+        "longitude":  -112.1840283,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Nathan}"
+                                           ]
+                          },
+                          {
+                              "registerId":  502,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 502}"
+                                           ]
+                          },
+                          {
+                              "registerId":  503,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 503}"
+                                           ]
+                          },
+                          {
+                              "registerId":  9,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Darcy}",
+                                               "@{name=Marina}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac16"
+                },
+        "storeId":  112,
+        "name":  "DYSART \u0026 MCDOWELL",
+        "addressLine1":  "1575 N DYSART RD",
+        "phoneNumber":  "6239250267",
+        "geoZipCode":  85392,
+        "isActive":  false,
+        "taxRetail":  0.088,
+        "taxFood":  0.025,
+        "geoCity":  "AVONDALE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4630894,
+        "longitude":  -112.3389417,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac17"
+                },
+        "storeId":  123,
+        "name":  "BROADWAY \u0026 LINDSAY",
+        "addressLine1":  "2727 E BROADWAY RD",
+        "phoneNumber":  "4804645705",
+        "geoZipCode":  85204,
+        "isActive":  false,
+        "taxRetail":  0.0805,
+        "taxFood":  0,
+        "geoCity":  "MESA",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4064146,
+        "longitude":  -111.7723364,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac18"
+                },
+        "storeId":  675,
+        "name":  "YUMA ST. \u0026 WATSON RD.",
+        "addressLine1":  "1300 S WATSON RD",
+        "phoneNumber":  "6236916600",
+        "geoZipCode":  85326,
+        "isActive":  false,
+        "taxRetail":  0.093,
+        "taxFood":  0.03,
+        "geoCity":  "BUCKEYE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4342486,
+        "longitude":  -112.558681,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac19"
+                },
+        "storeId":  623,
+        "name":  "19TH AVE \u0026 GLENDALE",
+        "addressLine1":  "1815 W GLENDALE AVE",
+        "phoneNumber":  "6023352240",
+        "geoZipCode":  85021,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.5370921,
+        "longitude":  -112.0982485,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1a"
+                },
+        "storeId":  657,
+        "name":  "LAKE PLEASANT \u0026 HAPPY VALLEY RD.",
+        "addressLine1":  "25401 N LAKE PLEASANT PKWY",
+        "phoneNumber":  "6232352350",
+        "geoZipCode":  85383,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.016,
+        "geoCity":  "PEORIA",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.715372,
+        "longitude":  -112.2671141,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=NATE}"
+                                           ]
+                          },
+                          {
+                              "registerId":  504,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 504}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1b"
+                },
+        "storeId":  612,
+        "name":  "SHEA \u0026 TATUM",
+        "addressLine1":  "4707 E. SHEA BLVD.",
+        "phoneNumber":  "(480-367-3940)",
+        "geoZipCode":  85028,
+        "isActive":  true,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.5809371,
+        "longitude":  -111.9790241,
+        "registers":  [
+                          {
+                              "registerId":  31,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=Rachel}"
+                                           ]
+                          },
+                          {
+                              "registerId":  511,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 511}"
+                                           ]
+                          },
+                          {
+                              "registerId":  11,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=Dave}"
+                                           ]
+                          }
+                      ]
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1c"
+                },
+        "storeId":  101,
+        "name":  "MILL \u0026 SOUTHERN",
+        "addressLine1":  "3232 S MILL AVE",
+        "phoneNumber":  "4808589096",
+        "geoZipCode":  85282,
+        "isActive":  false,
+        "taxRetail":  0.081,
+        "taxFood":  0.018,
+        "geoCity":  "TEMPE",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.3938942,
+        "longitude":  -111.9413326,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1d"
+                },
+        "storeId":  79,
+        "name":  "83RD \u0026 LOWER BUCKEYE",
+        "addressLine1":  "2626 S 83RD AVE",
+        "phoneNumber":  "6239072434",
+        "geoZipCode":  85043,
+        "isActive":  false,
+        "taxRetail":  0.086,
+        "taxFood":  0,
+        "geoCity":  "PHOENIX",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.4241543,
+        "longitude":  -112.2403308,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1e"
+                },
+        "storeId":  15,
+        "name":  "VAL VISTA \u0026 BASELINE RD",
+        "addressLine1":  "3751 E BASELINE RD",
+        "phoneNumber":  "4808922202",
+        "geoZipCode":  85234,
+        "isActive":  false,
+        "taxRetail":  0.078,
+        "taxFood":  0.015,
+        "geoCity":  "GILBERT",
+        "banner":  "Fry\u0027s Food \u0026 Drug",
+        "geoState":  "AZ",
+        "latitude":  33.378498,
+        "longitude":  -111.7513402,
+        "registers":  null
+    },
+    {
+        "_id":  {
+                    "$oid":  "5c9f35a3a2eaf18a06afac1f"
+                },
+        "storeId":  625,
+        "name":  "67TH AVE \u0026 BELL RD.",
+        "addressLine1":  "6611 W. BELL RD.",
+        "phoneNumber":  "(623-334-2950)",
+        "geoZipCode":  85308,
+        "isActive":  true,
+        "taxRetail":  0.092,
+        "taxFood":  0.025,
+        "geoCity":  "GLENDALE",
+        "banner":  "Fry\u0027s Marketplace",
+        "geoState":  "AZ",
+        "latitude":  33.6368706,
+        "longitude":  -112.2004963,
+        "registers":  [
+                          {
+                              "registerId":  21,
+                              "departmentCode":  2,
+                              "cashiers":  [
+                                               "@{name=MICHELLE}"
+                                           ]
+                          },
+                          {
+                              "registerId":  500,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 500}"
+                                           ]
+                          },
+                          {
+                              "registerId":  501,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 501}"
+                                           ]
+                          },
+                          {
+                              "registerId":  511,
+                              "departmentCode":  1,
+                              "cashiers":  [
+                                               "@{name=CHEC 511}"
+                                           ]
+                          },
+                          {
+                              "registerId":  18,
+                              "departmentCode":  0,
+                              "cashiers":  [
+                                               "@{name=DEBBIE}"
+                                           ]
+                          }
+                      ]
+    }
+]
